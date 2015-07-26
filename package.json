@@ -1,0 +1,8 @@
+{
+  "name": "mssql2elastic",
+  "version": "0.0.1",
+  "dependencies": {
+    "elasticsearch": "^5.0.0",
+    "mssql": "^2.1.6"
+  }
+}
